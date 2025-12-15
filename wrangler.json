@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "bfd49204-802a-4c1a-8405-0da0c2d8a0f2",
+			"database_name": "WeJoy"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
